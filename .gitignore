@@ -1,0 +1,47 @@
+# Data folders
+raw_data/
+processed_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large files
+*.pt
+*.pkl
+*.npy
+*.csv
+*.h5
+
+# Output files
+figures/*.png
+figures/*.jpg
+figures/*.pdf
